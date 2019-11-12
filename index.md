@@ -32,3 +32,17 @@ Managing internal projects is also part of internal communication and it can be 
 Internal communication is often overlooked. It does not require a lot of time to enable your employees access to tools like those just mentioned in this report. More and more millennials, which grew up with so much technology. They are used to fast changing environments. They are used to instant messaging. And they are open for new tools and technologies. But what they do not want is to have old fashioned ways to work as This will frustrate and unmotivated young talents. Digitalization, agility and transparency are buzz words of the modern way to work. Modern communication possibilities help to achieve them and will thereby reduce wasted time and your travel expenses.
 
 Start now and improve the level of agility, the efficiency and the satisfaction of your employees!
+
+## Sources
+
+**Bloomberg, J.** (2018, April 29). Digization, Digitalization, And Digital Transformation: Confuse Them At Your Peril. Retrieved from [https://www.forbes.com/sites/jasonbloomberg/2018/04/29/digitization-digitalization-and-digital-transformation-confuse-them-at-your-peril/#7bd145032f2c](https://www.forbes.com/sites/jasonbloomberg/2018/04/29/digitization-digitalization-and-digital-transformation-confuse-them-at-your-peril/#7bd145032f2c)
+
+**Brandon, J.** (2015, April 16). Why Email Will Be Obsolete by 2020. Retrieved from [https://www.inc.com/john-brandon/why-email-will-be-obsolete-by-2020.html](https://www.inc.com/john-brandon/why-email-will-be-obsolete-by-2020.html)
+
+**Gillior, H.** (2018, February 5). Digitalisation – An Unstoppable Mega Trend. Retrieved from [https://www.institutefordigitaltransformation.org/digitalisation-an-unstoppable-mega-trend/](https://www.institutefordigitaltransformation.org/digitalisation-an-unstoppable-mega-trend/)
+
+**Hays**, (2018) HR-Report 2018 – Schwerpunkt agile Organisation auf dem Prüfstand. Mannheim: Hays
+
+**Reis Neto, Fulgêncio da Silva, & Avelar Ferreira, C. A.** (2018). INfluence of Internal Communication on the Organizations’ Performance: Proposition of Model. Future Studies Research Journal: Trends & Strategies, 10(2), 214–237. Retrieved from [http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=133731742&site=ehost-live](http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=133731742&site=ehost-live)
+
+For the mentioned tools and their benefits I mainly used my personal experience made within the last 6 years at trivago and Trusted Shops. Both companies, especially trivago, are role models when it comes to take advantage of digitizing processes and communication. The level of agility is in both companies extremely high.
