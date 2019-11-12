@@ -1,5 +1,11 @@
 # How does digitalization help companies to improve their internal communication?
 
+# Table of Contents
+
+1. [Why is it important for companies to enable a good and fast internal communication through digitalization?](##Why is it important for companies to enable a good and fast internal communication through digitalization?)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
 ![Communication](01.jpg)
 
 ## Why is it important for companies to enable a good and fast internal communication through digitalization?
